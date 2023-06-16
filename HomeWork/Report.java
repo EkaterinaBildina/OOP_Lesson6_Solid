@@ -1,2 +1,3 @@
-public class Report {
+public interface Report {
+    public void report();
 }

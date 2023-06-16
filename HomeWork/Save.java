@@ -1,2 +1,3 @@
-public class Save {
+public interface Save {
+    public void save();
 }
